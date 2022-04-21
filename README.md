@@ -1,4 +1,4 @@
-<h1>Sas Tokens Generator</h1>
+<h1>SAS Token Generator</h1>
 
 Sas Tokens Generator is a script that generates new Sas Tokens using Python. 
 
